@@ -1,0 +1,17 @@
+{
+   "name": "sunrise-la-youth/spoke-opt-out-sync",
+   "description": "Sync opt-outs in Spoke to EveryAction",
+   "require": {
+      "guzzlehttp/guzzle": "^7.0"
+   },
+   "authors": [
+      {
+         "name": "Ozzy Simpson",
+         "email": "ozzy@ozzysimpson.com",
+         "homepage": "https://www.ozzysimpson.com",
+         "role": "Developer"
+      }
+   ],
+   "license": "MIT",
+   "homepage": "https://www.sunriseyouth.la"
+}
